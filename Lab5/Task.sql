@@ -1,5 +1,4 @@
 USE [hotel_lab5]
-USE [hotel_lab5]
 
 -- 1) Добавить внешние ключи 
 	-- Room
